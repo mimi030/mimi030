@@ -6,8 +6,6 @@ I’m a passionate developer who enjoys building projects that aim to make life 
 
 🌱 I’m currently diving deeper into AI technologies, cloud computing, and full-stack development.
 
-👯 I’m looking to collaborate on interesting projects that involve Django, React, or any new technologies.
-
 🛠️ Skills & Tools I use: Python, Django, ASP.NET Framework, or frontend technologies like HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS, and jQuery.
 
 🧑‍💻 I also have experience with C# for backend development and enjoy experimenting with different frameworks.
@@ -16,7 +14,7 @@ I’m a passionate developer who enjoys building projects that aim to make life 
 
 ⚡ Fun fact: I'm passionate about learning new things, drawing, sightseeing, and gaming. When I'm not coding, you'll likely find me going for walks.
 
-If you find my work helpful and want to support my journey, I’d be truly grateful for any sponsorship. Your support allows me to focus more on improving my projects and exploring new ideas. Thank you for being part of this wonderful community! 🌟
+###If you find my work helpful and want to support my journey, I’d be truly grateful for any sponsorship. Your support allows me to focus more on improving my projects and exploring new ideas. Thank you for being part of this wonderful community! 🌟
 
 <!--
 **mimi030/mimi030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
