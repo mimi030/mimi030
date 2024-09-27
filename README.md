@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I’m a passionate developer who enjoys building projects that aim to make life a little easier. If you find my work helpful and want to support my journey, I’d be truly grateful for any sponsorship. Your support allows me to focus more on improving my projects and exploring new ideas. Thank you for being part of this wonderful community! 🌟
+
 <!--
 **mimi030/mimi030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
