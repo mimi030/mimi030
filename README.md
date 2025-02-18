@@ -8,7 +8,7 @@ I’m a passionate developer who enjoys building projects that aim to make life 
 - 📫 How to reach me: You may tag me on a GitHub issue.
 - ⚡ Fun fact: I'm passionate about learning new things, drawing, sightseeing, and gaming. When I'm not coding, you'll likely find me going for walks.
 
-If you find my work helpful and want to support my journey, I’d be truly grateful for any sponsorship. Your support allows me to focus more on improving my projects and exploring new ideas. Thank you for being part of this wonderful community! 🌟
+I’m always open to collaboration and contributing to impactful projects. If you find my work valuable, I appreciate your support—whether through feedback, contributions, or sponsorship—as it helps me continue improving and innovating. Looking forward to building great things together! 🌟
 
 <!--
 **mimi030/mimi030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
